@@ -1,0 +1,9 @@
+Format is tab separated skeinforge settings.
+_Name                          	Value
+WindowPosition	345+42
+Open File for Skeinforge	C:/Users/KDN/Downloads/budda8.stl
+analyze	False
+craft	True
+help	False
+meta	False
+profile	False
